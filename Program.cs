@@ -8,6 +8,7 @@ namespace Basic
         {
             Console.WriteLine("Welcome to Roca");
             Console.WriteLine("Starting Point");
+            Console.WriteLine("Earth to Planet Roca");
             Console.ReadLine();
         }
     }
