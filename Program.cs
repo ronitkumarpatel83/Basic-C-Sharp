@@ -12,7 +12,8 @@ namespace Basic
             Console.WriteLine("Thanos has been seen in his Home Planet");
             Human human = new Human();
             human.HumanDetails();
-
+            SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+            swapTwoNumber.SwapNumbers();
 
 
             Console.ReadLine();
