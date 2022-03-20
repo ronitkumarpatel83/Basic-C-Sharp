@@ -10,7 +10,15 @@ namespace Basic
             Console.WriteLine("Starting Point");
             Console.WriteLine("Earth to Planet Roca");
             Console.WriteLine("Thanos has been seen in his Home Planet");
+            Human human = new Human();
+            human.HumanDetails();
+
+
+
             Console.ReadLine();
+
         }
+
+
     }
 }
